@@ -7,5 +7,6 @@ the orig
 
 ///////////////////////
 //02_pee
-convert to use pee namespace
+* change icon name: a_Google IO 2014
+* don't compile android wear
 
