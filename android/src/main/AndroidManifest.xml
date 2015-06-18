@@ -310,7 +310,7 @@
         -->
         <service android:name=".gcm.GCMIntentService" />
 
-        <!-- Data, sync and schedule editing components -->
+         <!-- Data, sync and schedule editing components -->
 
         <provider
             android:name=".provider.ScheduleProvider"
